@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第1章 数据存储与运算/1.5 字符串格式化.md",
+                "file": "试验.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.5 字符串格式化"
+              "title": "试验"
             }
           }
         ]
@@ -165,8 +165,19 @@
               "icon": "links-coming-in",
               "title": "1.2 常见数据类型 的反向链接列表"
             }
+          },
+          {
+            "id": "c920f26b1be78863",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,13 +194,15 @@
       "bases:新建数据库": false,
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e4cdafb5f925ac8b",
   "lastOpenFiles": [
-    "第1章 数据存储与运算/1.4 字符串拼接.md",
     "第1章 数据存储与运算/1.5 字符串格式化.md",
+    "试验.md",
+    "第1章 数据存储与运算/1.4 字符串拼接.md",
     "第1章 数据存储与运算/1.3 字符串.md",
     "第1章 数据存储与运算/附件/Pasted image 20260629225316.png",
     "第1章 数据存储与运算/1.2 常见数据类型.md",
