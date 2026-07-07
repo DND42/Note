@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "showIndentGuide": false,
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./附件",
+  "showInlineTitle": false,
+  "focusNewTab": true,
+  "foldIndent": false,
+  "foldHeading": false,
+  "promptDelete": false
+}

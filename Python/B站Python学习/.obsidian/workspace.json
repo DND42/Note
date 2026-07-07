@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "6d053c1f5e730757",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a50b0ff1383583",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4cdafb5f925ac8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第1章 数据存储与运算/1.5 字符串格式化.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.5 字符串格式化"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66645abf12779cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d5017926c49d67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3be643d8e8cc15da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b435f3d4ace13a0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "链接",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0fc8f861a1f3111e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3405f37132a1f997",
+    "type": "split",
+    "children": [
+      {
+        "id": "31c99bb1e751cff3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae4290c514cda325",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "68007799dc5d29e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cd1555ae6a962607",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第1章 数据存储与运算/1.2 常见数据类型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.2 常见数据类型 的出链列表"
+            }
+          },
+          {
+            "id": "3895864eb0f62211",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第1章 数据存储与运算/1.2 常见数据类型.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1.2 常见数据类型 的大纲"
+            }
+          },
+          {
+            "id": "55767ab882a5e859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第1章 数据存储与运算/1.2 常见数据类型.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1.2 常见数据类型 的反向链接列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "e4cdafb5f925ac8b",
+  "lastOpenFiles": [
+    "第1章 数据存储与运算/1.4 字符串拼接.md",
+    "第1章 数据存储与运算/1.5 字符串格式化.md",
+    "第1章 数据存储与运算/1.3 字符串.md",
+    "第1章 数据存储与运算/附件/Pasted image 20260629225316.png",
+    "第1章 数据存储与运算/1.2 常见数据类型.md",
+    "第1章 数据存储与运算/1.1 字面量与变量.md",
+    "第1章 数据存储与运算/附件/5348a9b0-2bd7-bzee.jpg",
+    "第1章 数据存储与运算/附件/屏幕截图 2026-06-22 231713.png"
+  ]
+}

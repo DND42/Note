@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Obsidianite",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "snippets"
+  ],
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "showRibbon": true
+}

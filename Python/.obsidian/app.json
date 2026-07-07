@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "tabSize": 4,
+  "foldIndent": true,
+  "foldHeading": false,
+  "focusNewTab": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "./附件",
+  "trashOption": "system",
+  "useMarkdownLinks": true
+}

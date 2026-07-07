@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Obsidianite",
+  "baseFontSizeAction": true,
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "snippets"
+  ],
+  "accentColor": "#eff0ef"
+}

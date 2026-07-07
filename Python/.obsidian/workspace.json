@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "2ff3aba64049c14d",
+    "type": "split",
+    "children": [
+      {
+        "id": "90e131af07690ba4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c330831e18e65400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B站Python学习/第1章 数据存储与运算/1.2 常见数据类型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 常见数据类型"
+            }
+          },
+          {
+            "id": "cab01a24f278c63c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B站Python学习/第1章 数据存储与运算/1.2 常见数据类型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 常见数据类型"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2a4e79d2ca75fc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3da85c23440a8aa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06b006f4782f2e30",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d94ae4dfebd400f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c536925773155e9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5bd8f62ee35f25b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc26f9a0ef0e12f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18e72d3ae679d0c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B站Python学习/第1章 数据存储与运算/1.2 常见数据类型.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1.2 常见数据类型 的反向链接列表"
+            }
+          },
+          {
+            "id": "c5f29416ebd90a10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "B站Python学习/第1章 数据存储与运算/1.2 常见数据类型.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.2 常见数据类型 的出链列表"
+            }
+          },
+          {
+            "id": "eca1e260803b013c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8565ea542942ecad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "1f303fe7c1365e54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B站Python学习/第1章 数据存储与运算/1.2 常见数据类型.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1.2 常见数据类型 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 501.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "cab01a24f278c63c",
+  "lastOpenFiles": [
+    "B站Python学习/第1章 数据存储与运算/附件/5348a9b0-2bd7-bzee.jpg",
+    "B站Python学习/第1章 数据存储与运算/附件/屏幕截图 2026-06-22 231713.png",
+    "B站Python学习/第1章 数据存储与运算/附件",
+    "屏幕截图 2026-06-22 224711.png",
+    "B站Python学习/第1章 数据存储与运算/1.2 常见数据类型.md",
+    "B站Python学习/第1章 数据存储与运算/Pasted image 20260622231716.png",
+    "B站Python学习/第1章 数据存储与运算/1.1 字面量与变量.md",
+    "Pasted image 20260622224719.png",
+    "Markdown常用语法详解.md",
+    "B站Python学习/第1章 数据存储与运算",
+    "Python语法.md",
+    "B站Python学习",
+    "B站Python学习/2.md",
+    "B站Python学习/Python学习笔记1.md",
+    "[Markdown.md",
+    "演示的白板.canvas",
+    "1",
+    "2",
+    "阿斯蒂芬",
+    "B站Python学习/Pasted image 20260619211412.png",
+    "Pasted image 20260619211056.png",
+    "Python学习笔记2.md",
+    "Pasted image 20260619211111.png",
+    "创建链接.md",
+    "B站Python学习",
+    "欢迎.md"
+  ]
+}
